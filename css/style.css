@@ -1,0 +1,25 @@
+.box1 {
+    width: 250px;
+    height: 50px;
+    margin: 10px;
+    border: 10px solid orange;
+    padding: 80px;
+    box-sizing: content-box;
+}
+
+.box2 {
+    width: 250px;
+    height: 50px;
+    margin: 10px;
+    border: 10px solid blueviolet;
+    padding: 80px;
+    box-sizing: border-box;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.intro {
+    font-family: 'Sarabun', sans-serif;
+}
